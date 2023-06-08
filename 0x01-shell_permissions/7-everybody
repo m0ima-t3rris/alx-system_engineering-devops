@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod u+xc+x hello
